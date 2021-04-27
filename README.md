@@ -1,13 +1,13 @@
 # Explainer: Salvageable Opt-in Header
 
 ## Authors
-* [@nyaxt](github.com/nyaxt)
-* [@yoavweiss](github.com/yoavweiss)
+* [@nyaxt](https://github.com/nyaxt)
+* [@yoavweiss](https://github.com/yoavweiss)
 
 
 ## Participate
 
-* [github.com/nyaxt/bfcache-opt-in-header/issues](github.com/nyaxt/bfcache-opt-in-header/issues)
+* [github.com/nyaxt/bfcache-opt-in-header/issues](https://github.com/nyaxt/bfcache-opt-in-header/issues)
 
 
 ## Introduction
