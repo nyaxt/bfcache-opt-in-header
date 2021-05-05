@@ -65,7 +65,7 @@ Insert the following steps between the steps 13 and 14:
 14. If navigationParams's [response](https://html.spec.whatwg.org/multipage/browsing-the-web.html#navigation-params-response) has a ``BFCache-Opt-In`` header, then:
     1. Let bfcacheOptInHeaderList be the result of [getting a structured field value](https://fetch.spec.whatwg.org/#concept-header-list-get-structured-header) given ``BFCache-Opt-In`` and "`list`" from the response's [header list](https://fetch.spec.whatwg.org/#concept-response-header-list).
     2. For each item `item` in bfcacheOptInHeaderList:
-        1. If `item` is a string “unload”, set the document's _unload salvageable opt-in state_ to true.
+        1. If `item` is a token “unload”, set the document's _unload salvageable opt-in state_ to true.
 
 
 ## “Unload a document” patch
