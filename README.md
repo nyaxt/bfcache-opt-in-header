@@ -88,7 +88,7 @@ This section describes a header for registration in the Permanent Message Header
 
 **Header field name:**
 
-Origin-Agent-Cluster
+BFCache-Opt-In
 
 **Applicable protocol:**
 
